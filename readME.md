@@ -2,4 +2,4 @@
 
 ![Av-Avcı Oyunu](/Screenshot.png)
 
-![Oyun İçeriği](/icerik.png)
+![Oyun İçeriği](/icerik.jpeg)
